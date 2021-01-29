@@ -6,6 +6,7 @@ public class Cat extends Animal {
 	void bark() {
 		// TODO Auto-generated method stub
 		System.out.println("Meow Meow");
+		System.out.println("2nd Meow Meow");
 	}
 
 }
